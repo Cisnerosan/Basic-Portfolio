@@ -53,7 +53,7 @@ nav {
 
 section {
     width: 960px;
-    height: 300px;
+    height: 500px;
     margin:0 auto;
     background-color: #ffffff;
     color: black;
@@ -109,13 +109,8 @@ input[type=submit]:hover {
     padding: 20px;
 }
 
-
-p {
-    padding-bottom: 1000px;
-    background-color: #ffffff;
+#contact {
+    margin-top: 30px;
+    block-size: 15px;
 
 }
-
-
-
-
